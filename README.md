@@ -138,3 +138,4 @@ go.Scatterpolar(r, theta, fill, name): Polar (radar/spider) chart trace.
 fig.add_trace(trace): Adds a trace to an existing Plotly figure.
 fig.show(): Renders an interactive Plotly figure.
 ## CONCLUSION
+Real-World and Interactive Visualization techniques using Python's Plotly, SciPy, and Matplotlib libraries were successfully studied and implemented. Treemaps, dendrograms, Venn diagrams, Sankey diagrams, 3D scatter plots, and radar charts were demonstrated on appropriate datasets, and the distinction between static Matplotlib-based and interactive Plotly-based visualizations was analyzed in detail.
